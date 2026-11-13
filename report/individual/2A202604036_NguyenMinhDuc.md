@@ -10,9 +10,9 @@
 - MSSV: 2A202604036
 - Mã đề (A/B/C): A
 - Email: duchv234@gmail.com
-- Link repository:
-- Giờ bắt đầu:
-- Giờ kết thúc:
+- Link repository: https://github.com/nmduc2504/K5-L2-NguyenMinhDuc-2A202604036-MOTTracking
+- Giờ bắt đầu: 16:00 
+- Giờ kết thúc: 19:30
 
 ## 1. Xem trước đoạn video (CP0)
 
