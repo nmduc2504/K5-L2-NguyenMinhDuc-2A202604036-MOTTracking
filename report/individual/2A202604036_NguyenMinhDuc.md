@@ -20,7 +20,7 @@ Ghi **trước khi vẽ**, mỗi người một dòng.
 
 | Mã | Frame xuất hiện | Frame cuối thấy được | Rẽ / dừng / đổi tốc độ ở frame | Bị che ở frame | Ghi chú |
 |---|---|---|---|---|---|
-| P1 | | | | | |
+| P1 | 0 | 135 | 43 | 109 |  |
 | P2 | | | | | |
 | P3 | | | | | |
 | P4 | | | | | |
