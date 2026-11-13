@@ -6,10 +6,10 @@
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Mã đề (A/B/C):
-- Email:
+- Họ tên: Nguyễn Minh Đức   
+- MSSV: 2A202604036
+- Mã đề (A/B/C): A
+- Email: duchv234@gmail.com
 - Link repository:
 - Giờ bắt đầu:
 - Giờ kết thúc:
